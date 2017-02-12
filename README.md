@@ -1,0 +1,1 @@
+# Truncate-a-string-FreeCodeCamp-challenge
